@@ -1,0 +1,19 @@
+{
+  "name": "counter_app",
+  "version": "1.0.0",
+  "description": "simple interactive web application",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mahesh A V",
+  "license": "ISC",
+  
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
